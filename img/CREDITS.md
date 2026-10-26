@@ -38,7 +38,7 @@ photography for a live build at the same crops.
 
 | File | Source |
 | --- | --- |
-| `contractor-hero-800.webp`, `contractor-hero-1400.webp` (Craftsman porch) | <https://www.pexels.com/photo/5502227/> |
+| `contractor-hero-800.webp`, `contractor-hero-1100.webp` (Craftsman porch) | <https://www.pexels.com/photo/5502227/> |
 | `contractor-1.webp` (kitchen, green cabinets) | <https://www.pexels.com/photo/39383715/> |
 | `contractor-2.webp` (tiled walk-in shower) | <https://www.pexels.com/photo/8583810/> |
 | `contractor-3.webp` (carpenter framing a roof) | <https://www.pexels.com/photo/8821560/> |
