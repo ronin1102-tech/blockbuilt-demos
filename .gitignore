@@ -1,3 +1,4 @@
 .scratch/
 node_modules/
+.preview.pid
 .DS_Store
